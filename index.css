@@ -1,0 +1,53 @@
+.div-wrapper {
+  display: grid;
+  grid-template-areas:
+    "one two three"
+    "four five six";
+  gap: 50px; 
+  padding: 10px;
+}
+
+.div-wrapper > div {
+  text-align: center;
+  border: 4px solid purple;
+  font-size: 18px;
+  font-weight: bold;
+  background-color: white;
+  border-radius: 8px;
+}
+
+.one {
+  grid-area: one;
+  height: 300px;
+  width: 500px;
+}
+
+.two {
+  grid-area: two;
+  height: 150px;
+  width: 200px;
+}
+
+.three {
+  grid-area: three;
+  height: 300px;
+  width: 200px;
+}
+
+.four {
+  grid-area: four;
+  height: 200px;
+  width: 400px;
+}
+
+.five {
+  grid-area: five;
+  height: 150px;
+  width: 200px;
+}
+
+.six {
+  grid-area: six;
+  height: 150px;
+  width: 200px;
+}

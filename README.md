@@ -1,7 +1,5 @@
 Hi, I’m Lilia C, a student developer. Over the course of my studies, I’ve built a strong foundation in HTML, CSS, and JavaScript, and I’m continuously learning to grow as a developer. My portfolio showcases the skills I've developed and the progress I've made throughout the year.
 
-- [Github Repository](https://github.com/lilia-C08/Final-project)
-- [Live Website](https://lilia-c08.github.io/Final-project/)
 ## Project Summary
 
 This portfolio is the culmination of my learning and development over the past academic year. It represents my journey as a developer and includes a variety of projects that highlight my growth, creativity, and technical skills. Through building this site, I gained a deeper understanding of responsive design, version control, and the importance of clean, maintainable code. 
